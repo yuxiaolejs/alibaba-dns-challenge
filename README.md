@@ -36,4 +36,4 @@ greenlock.manager.defaults({
       }
 })
 ```
-- [等待更新 Waiting for update](https://.unics.top)
+- [等待更新 Waiting for update](https://unics.top)
