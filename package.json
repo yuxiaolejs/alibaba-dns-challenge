@@ -1,6 +1,6 @@
 {
   "name": "alibaba-dns-challenge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dns challenge module for greenlock",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,10 @@
   "homepage": "https://unics.top",
   "author": "Unics Yu",
   "keywords": [
-    "ikuai",
-    "router"
+    "greenlock",
+    "certificate",
+    "aliyun",
+    "alibaba cloud"
   ],
   "license": "ISC",
   "bugs": {
